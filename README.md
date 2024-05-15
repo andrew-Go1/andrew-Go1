@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Andrew, and I'm 27.
+- 👷 I like to solve interesting tasks.
+- ⚙️ I'm seack for automatization.
+- 🔭 I’m currently working with JS and Arduino by the time.
+- ⚡ Fun fact: The JavaScript programming language is unique in that it is not tied to any specific company or organization.
 <!--
 **andrew-Go1/andrew-Go1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
